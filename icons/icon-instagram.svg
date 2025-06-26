@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <path d="M4.002,11.218c0-3.986,3.242-7.218,7.24-7.218h32.809c14.974,0,9.134,20.084,2.284,14.419-7.548-6.24,13.665-14.419,13.665-.175v34.537c0,3.986-3.242,7.218-7.24,7.218H11.24c-3.998,0-7.24-3.232-7.24-7.218l.002-41.564Z" style="fill: none; stroke: #204ECF; stroke-linecap: round; stroke-linejoin: round; stroke-width: 4px;"/>
-  <path d="M32,45.616c6.185,0,11.2-5.014,11.2-11.2s-5.015-11.2-11.2-11.2-11.2,5.014-11.2,11.2,5.015,11.2,11.2,11.2Z" style="fill: none; stroke: #204ECF; stroke-linecap: round; stroke-linejoin: round; stroke-width: 4px;"/>
+  <path d="M4.002,11.218c0-3.986,3.242-7.218,7.24-7.218h32.809c14.974,0,9.134,20.084,2.284,14.419-7.548-6.24,13.665-14.419,13.665-.175v34.537c0,3.986-3.242,7.218-7.24,7.218H11.24c-3.998,0-7.24-3.232-7.24-7.218l.002-41.564Z" style="fill: none; stroke: #404cff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 4px;"/>
+  <path d="M32,45.616c6.185,0,11.2-5.014,11.2-11.2s-5.015-11.2-11.2-11.2-11.2,5.014-11.2,11.2,5.015,11.2,11.2,11.2Z" style="fill: none; stroke: #404cff; stroke-linecap: round; stroke-linejoin: round; stroke-width: 4px;"/>
 </svg>
